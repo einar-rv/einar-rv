@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @einar-rv
 - 👀 I’m interested in web development
-- 🌱 I’m study in the uneversity software develepment, i have 3 years left
+- 🌱 I’m study in the university software develepment, i have 3 years left
 - 💞️ I’m looking to collaborate on web design using javascript
 - 📫 You can contact me in einar.rodriguez.valle@hotmail.com
 
